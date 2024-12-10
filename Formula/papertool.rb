@@ -1,4 +1,4 @@
-class PaperTool < Formula
+class Papertool < Formula
   desc "Small bash script for fast and easy installation, updating of paper spigot servers."
   homepage "https://github.com/satanicantichrist/Paper-Tool"
   url "https://github.com/satanicantichrist/Paper-Tool/archive/refs/tags/1.1.0.tar.gz"
