@@ -1,8 +1,8 @@
 class Papertool < Formula
   desc "Small bash script for fast and easy installation, updating of paper spigot servers."
   homepage "https://github.com/satanicantichrist/Paper-Tool"
-  url "https://github.com/satanicantichrist/Paper-Tool/archive/refs/tags/1.1.1.tar.gz"
-  sha256 "d02b58cc57f9ff20ae926ab95f34565fb9938ff3a798f2d1c04758ff93e79f49"
+  url "https://github.com/satanicantichrist/Paper-Tool/archive/refs/tags/1.1.2.tar.gz"
+  sha256 "2c3f9a707d9f243ab39cfa23350d552d1fd58d085f5ac330911c64a0b8ff3fbf"
   license ""
 
   depends_on "jq"
