@@ -1,8 +1,8 @@
 class ServerMrpackToServer < Formula
   desc "Small bash script for fast and easy server generate from .mrpack file."
   homepage "https://github.com/satanicantichrist/mrpack-to-server"
-  url "https://github.com/satanicantichrist/mrpack-to-server/archive/refs/tags/1.0.2.tar.gz"
-  sha256 "a840fd4d8135a3c82eb95f8e3b64fa8e954d084f6a47e6e2b2b4074178e0932c"
+  url "https://github.com/satanicantichrist/mrpack-to-server/archive/refs/tags/1.0.3.tar.gz"
+  sha256 "e44f59d87cfc349c09316c8b9e958c71e83a60291935ec313a006f306e3c1d19"
   license ""
 
   depends_on "jq"
