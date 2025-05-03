@@ -5,7 +5,7 @@ class Papertool < Formula
   sha256 "3431fc96711d5cf7443b9b08fb498e82b8f0e6e2c2e33b5d1d7b929180e37898"
   license ""
 
-  depends_on ["jg", "fzf"]
+  depends_on ["jq", "fzf"]
 
   def install
     bin.install "papertool"
